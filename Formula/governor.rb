@@ -1,5 +1,5 @@
 class Governor < Formula
-  desc "Blind attribution scoring for AI agent actions"
+  desc "Command-line governance tool"
   homepage "https://github.com/tymrtn/governor"
   version "0.1.0"
   license :cannot_represent
