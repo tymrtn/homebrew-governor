@@ -1,6 +1,6 @@
 # homebrew-governor
 
-Homebrew tap for [Governor](https://github.com/tymrtn/governor) — policy engine for AI agent tool governance.
+Homebrew tap for Governor.
 
 ## Install
 
@@ -9,6 +9,5 @@ brew tap tymrtn/governor
 brew install governor
 ```
 
-## License
-
-FSL-1.1-ALv2. See the [Governor repo](https://github.com/tymrtn/governor) for details.
+This tap installs prebuilt Governor binaries from the public release here:
+https://github.com/tymrtn/homebrew-governor/releases/tag/v0.1.0
