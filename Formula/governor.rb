@@ -7,7 +7,7 @@ class Governor < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/tymrtn/governor/releases/download/v0.1.0/governor-0.1.0-darwin-arm64.tar.gz"
-      sha256 "73bc31756b7d8cf28bc6405ead082cbf55b80875c461b4ee560e95c89d7f928b"
+      sha256 "991eb902d7edf5c30e72a766aec39d938bfd637a7ee92ea6d98be3814a33a9fc"
     end
   end
 
